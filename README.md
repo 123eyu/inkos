@@ -44,7 +44,7 @@ InkOS 是一个面向故事创作与多语言翻译的 AI Agent 系统：长篇�
 **InkOS Studio 已支持 Moonshot（Kimi）。前往 Kimi 开放平台（[中文站](https://platform.kimi.com/?aff=inkos)｜[Global](https://platform.kimi.ai/?aff=inkos)）获取 API Key，即可开始创作。**
 
 <p align="center">
-  <a href="https://kkaiapi.com/models?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=zh-screenshot"><img src="assets/kkaiapi-models-promotion.jpg" width="840" alt="kkaiapi 模型与价格"></a>
+  <a href="https://kkaiapi.com/?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=zh-screenshot"><img src="assets/kkaiapi-home-promotion.jpg" width="840" alt="kkaiapi 首页"></a>
 </p>
 
 **kkaiapi｜一个 Key，调用 Claude、GPT、Gemini、DeepSeek 等主流模型。**<br>

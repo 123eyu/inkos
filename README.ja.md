@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kkaiapi.com/models?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=ja-screenshot"><img src="assets/kkaiapi-models-promotion.jpg" width="840" alt="kkaiapi のモデルと料金"></a>
+  <a href="https://kkaiapi.com/?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=ja-screenshot"><img src="assets/kkaiapi-home-promotion.jpg" width="840" alt="kkaiapi ホームページ"></a>
 </p>
 
 **kkaiapi｜APIキー1つで Claude、GPT、Gemini、DeepSeek などの主要モデルを利用。**<br>
