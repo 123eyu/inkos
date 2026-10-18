@@ -24,9 +24,9 @@
   <a href="https://kkaiapi.com/?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=ja-screenshot"><img src="assets/kkaiapi-home-promotion.jpg" width="840" alt="kkaiapi ホームページ"></a>
 </p>
 
-**kkaiapi｜APIキー1つで Claude、GPT、Gemini、DeepSeek などの主要モデルを利用。**<br>
-従量課金・共通残高で、InkOS の執筆・レビュー・表紙生成に使えます。<br>
-[モデルと料金 →](https://kkaiapi.com/models?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=ja-models) · [InkOS 接続ガイド →](https://kkaiapi.com/docs/inkos?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=ja-guide)
+**kkaiapi｜APIキー1つでモデルを、MCP接続1つでデータとツールを利用。**<br>
+Claude、GPT、Gemini、DeepSeek などを InkOS の執筆・レビュー・表紙生成に。従量課金で、残高は共通です。<br>
+[モデルと料金 →](https://kkaiapi.com/models?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=ja-models) · [InkOS 接続ガイド →](https://kkaiapi.com/docs/inkos?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=ja-guide) · [MCP 接続 →](https://kkaiapi.com/connect?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=ja-mcp)
 
 <p align="center">
   <a href="README.md">中文</a> | <a href="README.en.md">English</a> | 日本語

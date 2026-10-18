@@ -40,9 +40,9 @@ Thanks to [Kimi](https://www.kimi.com/code/?aff=inkos) for sponsoring this proje
   <a href="https://kkaiapi.com/?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=en-screenshot"><img src="assets/kkaiapi-home-promotion.jpg" width="840" alt="kkaiapi homepage"></a>
 </p>
 
-**kkaiapi | One API key for Claude, GPT, Gemini, DeepSeek and more.**<br>
-Pay as you go from one balance for writing, reviewing and cover generation in InkOS.<br>
-[Models and pricing →](https://kkaiapi.com/models?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=en-models) · [InkOS setup guide →](https://kkaiapi.com/docs/inkos?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=en-guide)
+**kkaiapi | One API key for models. One MCP connection for data and tools.**<br>
+Use Claude, GPT, Gemini, DeepSeek and more for writing, reviewing and cover generation in InkOS. Pay as you go from one shared balance.<br>
+[Models and pricing →](https://kkaiapi.com/models?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=en-models) · [InkOS setup guide →](https://kkaiapi.com/docs/inkos?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=en-guide) · [Connect via MCP →](https://kkaiapi.com/connect?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=en-mcp)
 
 
 ## v2.0.0 Unified Pi Agent Harness and Professional Creation Kernel
