@@ -47,7 +47,7 @@ InkOS 是一个面向故事创作与多语言翻译的 AI Agent 系统：长篇�
   <a href="https://kkaiapi.com/?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=zh-screenshot"><img src="assets/kkaiapi-home-promotion.jpg" width="840" alt="kkaiapi 首页"></a>
 </p>
 
-**kkaiapi｜一个 Key 调模型，一个 MCP 接数据与工具。**<br>
+**[kkaiapi](https://kkaiapi.com/?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=zh-brand)｜一个 Key 调模型，一个 MCP 接数据与工具。**<br>
 支持 Claude、GPT、Gemini、DeepSeek 等主流模型，按量付费、共用余额，用于 InkOS 写作、审稿与封面生成。<br>
 [查看模型与价格 →](https://kkaiapi.com/models?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=zh-models) · [InkOS 接入指南 →](https://kkaiapi.com/docs/inkos?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=zh-guide) · [MCP 接入 →](https://kkaiapi.com/connect?utm_source=inkos&utm_medium=repo&utm_campaign=kk-models-readme&utm_content=zh-mcp)
 
